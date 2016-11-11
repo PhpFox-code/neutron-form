@@ -2,6 +2,7 @@
   "name": "codelego/phpfox-form",
   "description": "PhpFox Form Component",
   "type": "library",
+  "license": "MIT",
   "authors": [
     {
       "name": "Nam Nguyen",
