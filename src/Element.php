@@ -34,6 +34,20 @@ class Element implements ElementInterface
      */
     protected $attributes = [];
 
+    /**
+     * Element constructor.
+     */
+    public function __construct()
+    {
+        $this->initialize();
+    }
+
+
+    protected function initialize()
+    {
+
+    }
+
     public function getOption($name)
     {
         return isset($this->options[$name]) ? $this->options[$name] : null;

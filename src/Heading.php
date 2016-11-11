@@ -9,5 +9,5 @@ namespace Phpfox\Form;
  */
 class Heading extends Element implements ElementInterface
 {
-    
+
 }
