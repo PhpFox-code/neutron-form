@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Phpfox\FormManager;
 
 /**
  * Interface ElementInterface
  *
- * @package Phpfox\Form
+ * @package Phpfox\FormManager
  */
 interface FieldInterface extends ElementInterface
 {

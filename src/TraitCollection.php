@@ -1,10 +1,10 @@
 <?php
-namespace Phpfox\Form;
+namespace Phpfox\FormManager;
 
 /**
  * Class TraitCollection
  *
- * @package Phpfox\Form
+ * @package Phpfox\FormManager
  */
 trait TraitCollection
 {

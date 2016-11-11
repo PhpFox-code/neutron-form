@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Phpfox\FormManager;
 
 /**
  * Class Button
  *
- * @package Phpfox\Form
+ * @package Phpfox\FormManager
  */
 class Button extends Element implements FieldInterface
 {

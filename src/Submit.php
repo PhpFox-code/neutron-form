@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Phpfox\FormManager;
 
 /**
  * Class Submit
  *
- * @package Phpfox\Form
+ * @package Phpfox\FormManager
  */
 class Submit extends Element implements FieldInterface
 {

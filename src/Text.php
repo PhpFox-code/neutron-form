@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Phpfox\FormManager;
 
 /**
  * Class Text
  *
- * @package Phpfox\Form
+ * @package Phpfox\FormManager
  */
 class Text extends Element implements FieldInterface
 {

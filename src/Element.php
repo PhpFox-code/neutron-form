@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Phpfox\FormManager;
 
 /**
  * Class AbstractElement
  *
- * @package Phpfox\Form
+ * @package Phpfox\FormManager
  */
 class Element implements ElementInterface
 {

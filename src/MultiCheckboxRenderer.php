@@ -1,6 +1,6 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Phpfox\FormManager;
 
 class MultiCheckboxRenderer implements RendererInterface
 {

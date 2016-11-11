@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Phpfox\FormManager;
 
 /**
  * Class Heading
  *
- * @package Phpfox\Form
+ * @package Phpfox\FormManager
  */
 class Heading extends Element implements ElementInterface
 {

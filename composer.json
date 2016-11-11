@@ -12,7 +12,12 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "Phpfox\\Form\\": "src/"
+      "Phpfox\\FormManager\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Phpfox\\FormManager\\": "test/"
     }
   },
   "require": {}

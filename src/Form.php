@@ -1,5 +1,5 @@
 <?php
-namespace Phpfox\Form;
+namespace Phpfox\FormManager;
 
 class Form extends Element implements CollectionInterface
 {

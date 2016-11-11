@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Phpfox\FormManager;
 
 /**
  * Class ResetRenderer
  *
- * @package Phpfox\Form
+ * @package Phpfox\FormManager
  */
 class ResetRenderer extends ButtonRenderer
 {
