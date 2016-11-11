@@ -1,6 +1,6 @@
 {
-  "name": "codelego/phpfox-form",
-  "description": "PhpFox Form Component",
+  "name": "codelego/phpfox-form-manager",
+  "description": "Form &amp; Html element library",
   "type": "library",
   "license": "MIT",
   "authors": [
