@@ -1,6 +1,6 @@
 <?php
 
-namespace Phpfox\FormManager;
+namespace Phpfox\Form;
 
 
 class Radio extends Element implements FieldInterface

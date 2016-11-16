@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\FormManager;
+namespace Phpfox\Form;
 
 /**
  * Class Password
  *
- * @package Phpfox\FormManager
+ * @package Phpfox\Form
  */
 class Password extends Element implements FieldInterface
 {

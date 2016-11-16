@@ -1,5 +1,5 @@
 {
-  "name": "codelego/phpfox-form-manager",
+  "name": "codelego/phpfox-form",
   "description": "Form &amp; Html element library",
   "type": "library",
   "license": "MIT",
@@ -12,12 +12,12 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "Phpfox\\FormManager\\": "src/"
+      "Phpfox\\Form\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Phpfox\\FormManager\\": "test/"
+      "Phpfox\\Form\\": "test/"
     }
   },
   "require": {}
