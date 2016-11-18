@@ -3,9 +3,6 @@
 namespace Phpfox\Form;
 
 return [
-    'aliases'         => [],
-    'factories'       => [],
-    'widgets'         => [],
     'form_elements'   => [
         'button'        => Button::class,
         'checkbox'      => Checkbox::class,
