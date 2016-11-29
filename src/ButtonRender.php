@@ -1,6 +1,6 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Neutron\Form;
 
 class ButtonRenderer implements RendererInterface
 {

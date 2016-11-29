@@ -1,6 +1,6 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Neutron\Form;
 
 
 class Email extends Element implements FieldInterface

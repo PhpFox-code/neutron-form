@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Neutron\Form;
 
 /**
  * Class Password
  *
- * @package Phpfox\Form
+ * @package Neutron\Form
  */
 class Password extends Element implements FieldInterface
 {

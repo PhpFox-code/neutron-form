@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Neutron\Form;
 
 /**
  * Class AbstractElement
  *
- * @package Phpfox\Form
+ * @package Neutron\Form
  */
 class Element implements ElementInterface
 {

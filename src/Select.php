@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Neutron\Form;
 
 /**
  * Class Select
  *
- * @package Phpfox\Form
+ * @package Neutron\Form
  */
 class Select extends Element implements FieldInterface
 {

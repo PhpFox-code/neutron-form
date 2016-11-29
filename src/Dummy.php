@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Neutron\Form;
 
 /**
  * Class Dummy
  *
- * @package Phpfox\Form
+ * @package Neutron\Form
  */
 class Dummy extends Element implements FieldInterface
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Neutron\Form;
 
 /**
  * Class Heading
  *
- * @package Phpfox\Form
+ * @package Neutron\Form
  */
 class Heading extends Element implements ElementInterface
 {

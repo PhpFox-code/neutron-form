@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Neutron\Form;
 
 /**
  * Class Button
  *
- * @package Phpfox\Form
+ * @package Neutron\Form
  */
 class Button extends Element implements FieldInterface
 {

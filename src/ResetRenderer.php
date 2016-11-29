@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Neutron\Form;
 
 /**
  * Class ResetRenderer
  *
- * @package Phpfox\Form
+ * @package Neutron\Form
  */
 class ResetRenderer extends ButtonRenderer
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Neutron\Form;
 
 /**
  * Class Submit
  *
- * @package Phpfox\Form
+ * @package Neutron\Form
  */
 class Submit extends Element implements FieldInterface
 {

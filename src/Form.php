@@ -1,5 +1,5 @@
 <?php
-namespace Phpfox\Form;
+namespace Neutron\Form;
 
 class Form extends Element implements CollectionInterface
 {

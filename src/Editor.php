@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Form;
+namespace Neutron\Form;
 
 /**
  * Class Editor
  *
- * @package Phpfox\Form
+ * @package Neutron\Form
  */
 class Editor extends Element implements ElementInterface
 {
